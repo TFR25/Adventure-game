@@ -1,4 +1,5 @@
 # COM203
+#Parsons, J. J. (2018). New perspectives on computer concepts 2018, comprehensive (20th ed.). Cengage.
 # Adventure Game
 print("Last night, you went to sleep in your own home.")
 print("Now, you wake up in a locked room.")
